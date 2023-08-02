@@ -1,0 +1,14 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "Debug with LLDB",
+        "type": "lldb",
+        "request": "launch",
+        "program": "/home/gabriel/rusty_puccina/ciphers/caesar_cipher/target/debug/caesar_cipher",
+        "args": [],
+        "cwd": "/home/gabriel/rusty_puccina/ciphers/caesar_cipher",
+        "sourceLanguages": ["rust"]
+      }
+    ]
+  }
